@@ -4,6 +4,12 @@ This is a simple and generic 3D demo, rotating logo or PNG image in text mode.
 ## Description
 This program is a 3D demo of a rotating Rust logo or generic PNG image, in text mode (inside a terminal). The program is written in the Rust programming language.
 
+## Screen shoots of the video demo
+![Rust 3D animation image](Rust_3D_animation.png) <br>
+<br>
+
+![Rust 3D animation 2 image](Rust_3D_animation_2.png) <br>
+
 ## Instruction on how to generate the same kind of animation for other logo or image in PNG
 
 ```
